@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I am Dr Marco Gilardi.
+- 🔭 My research focuses on immersive technologies applications to education, cultural heritage and health/wellbeing
+- My latest project: **BRANI-360: An Agnostic Browser-Based Research Sandbox Architecture for AI Audio-Generation on Networks of 360° Images** [BRANI-360 Repository](https://github.com/DrMarcoGilardi/BRANI-360); [BRANI-360 Web-page](https://drmarcogilardi.github.io/barni360.ai/)
+- 📫 How to reach me: [email](marco.gilardi@uws.ac.uk)
+- 👯 Happy to collaborate on projects related to immersive technologies applications
 
 <!--
 **DrMarcoGilardi/DrMarcoGilardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
